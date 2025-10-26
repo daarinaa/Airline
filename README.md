@@ -1,7 +1,7 @@
-# Лабораторная работа №3
-**Нигаматулина Дарина**
+Лабораторная работа №3
+Нигаматулина Дарина
 
-## СУБД: Microsoft SQL Server Express
+СУБД: Microsoft SQL Server Express
 
 Запуск:
 ```powershell
